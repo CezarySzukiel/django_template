@@ -8,3 +8,4 @@
 -MVP - minimum value product
 -Product
 -DB - connection string
+-yaml - yet another markup language
