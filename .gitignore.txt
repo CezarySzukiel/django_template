@@ -1,6 +1,7 @@
 env/.env
 .idea
 venv_location.txt
+staticfiles/*
 
 
 # Created by https://www.toptal.com/developers/gitignore/api/pycharm,macos,django,venv
