@@ -1,9 +1,10 @@
 # Django Template
 
 ## How to run?
-1. Environment variables
-2. Staticfiles
-3. Media
+1. python -m django startproject project_name . --template "URL"
+2. Environment variables
+3. Staticfiles
+4. Media
 
 ### Dictionary
 -REPL - Read, Evaluate, Print, Loop
